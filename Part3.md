@@ -57,3 +57,10 @@ Continuously seek feedback from contributors about their grading experience and 
 
 ## Conclusion
 In conclusion, grading projects hosted on GitHub repositories can be a rewarding but challenging process. By providing clear guidelines, emphasizing best practices, and fostering a culture of collaboration and feedback, we can alleviate many of the difficulties faced during the assessment process. This commitment to improvement will not only benefit contributors but also enhance the overall quality of the projects and the learning experience.
+
+## Authors
+Ajith Kumar V P</br>
+Divya Puranam</br>
+Priya Krishnamurthy</br>
+Reshma Rajashekaraiah
+
