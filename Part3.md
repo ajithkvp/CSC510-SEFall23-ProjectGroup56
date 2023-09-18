@@ -1,6 +1,6 @@
-# Reflecting on the Process of Grading and Maintaining GitHub Repositories
+# Reflecting on the Process of Maintaining Previous Projects
 
-Grading projects, especially when they are hosted on GitHub repositories, is a crucial aspect of evaluating candidates' work in a programming or software development course. It is a process that not only assesses the coding skills but also the ability to maintain and showcase their work. However, this process often presents its own set of challenges and difficulties. In this essay, we have elaborated on what was hard about this process, how that pain could have been avoided, and what practices we shall be committing to perform further to alleviate that pain.
+The first and foremost training given to new employees across any software job, is to perform an analysis of the current project on platforms like it to get a better understanding of the project. An employee is not only expected to code, but also to understand the various software engineering policies. Thus working on a new project first requires understanding these projects in depth especially when they are hosted on GitHub repositories, is a crucial aspect any software engineering  environment or software development course. Maintaining a project on github not only assesses the coding skills but also the ability to maintain and showcase their work. However, this process often presents its own set of challenges and difficulties. In this essay, we have elaborated on what was hard about this process, how that pain could have been avoided, and what practices we shall be committing to perform further to alleviate that pain.
 
 ## The Challenges Faced
 
@@ -57,4 +57,3 @@ Continuously seek feedback from contributors about their grading experience and 
 
 ## Conclusion
 In conclusion, grading projects hosted on GitHub repositories can be a rewarding but challenging process. By providing clear guidelines, emphasizing best practices, and fostering a culture of collaboration and feedback, we can alleviate many of the difficulties faced during the assessment process. This commitment to improvement will not only benefit contributors but also enhance the overall quality of the projects and the learning experience.
-
