@@ -8,7 +8,7 @@ CSC510-SE Group Project
 ### GITS - The Git Simplified
 
 ## Forked Link of the repository: 
-## The modified version of the project is available in the below link -
+### The modified version of the project is available in the below link -
 
 - This link has all the significant changes implemented in the GITS project repository: https://github.com/ajithkvp/GITS
 
